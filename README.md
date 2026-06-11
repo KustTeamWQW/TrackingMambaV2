@@ -213,14 +213,14 @@ TrackingmambaV2
 If you use this project, cite the TrackingMamba work and the related OTMJ dataset as appropriate.
 
 ```bibtex
-@ARTICLE{10678881,
+@ARTICLE{TrackingMambaV2,
   author={Wang, Qingwang and Zhou, Liyao and Fan, Huaiyu and Cheng, Bei and Zhang, Zhen and Gu, Yanfeng and Shen, Tao},
-  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
-  title={TrackingMamba: Visual State Space Model for Object Tracking},
-  year={2024},
-  pages={1-12},
-  keywords={Object tracking;Autonomous aerial vehicles;Transformers;Feature extraction;Computational modeling;Accuracy;Visualization;UAV remote sensing;jungle scenes;Mamba;object tracking},
-  doi={10.1109/JSTARS.2024.3458938}
+  journal={IEEE GEOSCIENCE AND REMOTE SENSING MAGAZINE},
+  title={TrackingMambaV2: UAV Visual Object Tracking in  Mountain Jungle},
+  year={2026},
+  pages={ },
+  keywords={UAV remote sensing; mountain jungle scenes; Mamba; object tracking},
+  doi={}
 }
 ```
 
