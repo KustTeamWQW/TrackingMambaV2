@@ -7,7 +7,7 @@ TrackingmambaV2 is a UAV visual object tracking project for mountain-jungle scen
 - a fixed-size accumulated historical feature tensor for temporal enhancement;
 - UAV mountain-jungle oriented data augmentation.
 
-The codebase is organized around the `trackingmambav2` model name.
+The codebase is organized around the `trackingmambav2` model name.Compared to the description in the paper, this version is an improved version. While keeping the core modules the same, the training is more stable, the training time is shorter, and the number of parameters and FLOPs are slightly increased.
 
 ## Highlights
 
